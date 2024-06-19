@@ -1,0 +1,15 @@
+﻿  authentication.cpp
+  main.cpp
+C:\Users\earbu\source\repos\11 pract\11 pract\main.cpp(140,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\earbu\source\repos\11 pract\11 pract\main.cpp(189,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\earbu\source\repos\11 pract\11 pract\main.cpp(202,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\earbu\source\repos\11 pract\11 pract\main.cpp(236,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  menu.cpp
+C:\Users\earbu\source\repos\11 pract\11 pract\menu.cpp(5,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  menu_item.cpp
+  order.cpp
+  product.cpp
+  user.cpp
+  utils.cpp
+  Создание кода...
+  11 pract.vcxproj -> C:\Users\earbu\source\repos\11 pract\x64\Debug\11 pract.exe
